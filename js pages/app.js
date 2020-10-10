@@ -128,7 +128,7 @@ window.addEventListener("scroll", function() {
 
 
 var swiper = new Swiper('.swiper-container', {
-  
+  loop: true,
   spaceBetween: 0,
   fadeEffect: {
     crossFade: true
